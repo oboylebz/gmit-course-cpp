@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613157971 source:c:\users\brendan\documents\labs_cpp\lab-program-class\main.cpp
+	<iostream>
+	"labInfo.h"
+
+1613157966 c:\users\brendan\documents\labs_cpp\lab-program-class\labinfo.h
+
