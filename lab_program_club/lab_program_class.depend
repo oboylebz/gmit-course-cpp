@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1614357515 source:c:\users\brendan\documents\labs_cpp\lab_program_class\football-club.cpp
+	"football_club.h"
+
+1614360869 source:c:\users\brendan\documents\labs_cpp\lab_program_class\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614360197 c:\users\brendan\documents\labs_cpp\lab_program_class\football_club.h
+	<iostream>
+
+1614352130 c:\users\brendan\documents\labs_cpp\lab_program_class\football-club.cpp
+	<iostream>
+	"football_club.h"
+
+1614354368 source:c:\users\brendan\documents\labs_cpp\lab_program_class\player.cpp
+
+1614360578 c:\users\brendan\documents\labs_cpp\lab_program_class\player.h
+	<iostream>
+
