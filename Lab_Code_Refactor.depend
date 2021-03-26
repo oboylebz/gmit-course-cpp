@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1616770211 source:c:\users\brendan\downloads\football\football\football_club.cpp
+	"football_club.h"
+
+1616770193 c:\users\brendan\downloads\football\football\football_club.h
+	<iostream>
+	"player.h"
+
+1616768108 c:\users\brendan\downloads\football\football\player.h
+	<iostream>
+
+1616770568 source:c:\users\brendan\downloads\football\football\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616768014 source:c:\users\brendan\downloads\football\football\player.cpp
+	"player.h"
+
+1615549574 source:c:\users\brendan\downloads\football\football\src\atest.cpp
+	"atest.h"
+
+1615549574 c:\users\brendan\downloads\football\football\include\atest.h
+
